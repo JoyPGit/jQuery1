@@ -1,0 +1,67 @@
+row{
+    width:100px
+}
+
+.c1{
+    border-color:palevioletred;
+    border-width: 10px;
+    border-style : solid;
+    background-color:gray;
+}
+
+.classOne{
+    border-style:solid;
+    border-color: black;
+    border-width: .7px;
+}
+
+.classTwo{
+    border-style:solid;
+    border-color: black;
+    border-width: .7px;
+}
+
+.classThree{
+    border-style:solid;
+    border-color: black;
+    border-width: .7px;
+}
+
+.buttonhide1{
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+.buttonhide2{
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+.buttonhide3{
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+.modalcon{
+    padding: 3px;
+    background-color: olive;    
+}
+
+.navigat{
+    border-color: palegoldenrod;
+    border-width: 2px;
+}
+
+.col-5{
+    margin-left: 30px;
+}
+
+.tabledivision2{
+    margin: 30px;
+}
+
+.highlight{
+    background-color: chocolate;
+}
